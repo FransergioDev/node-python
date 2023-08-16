@@ -1,0 +1,16 @@
+{
+  "name": "node-and-python",
+  "version": "1.0.0",
+  "description": "Utilizando scripts python no nodejs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fransérgio de A. Mota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "python-shell": "^5.0.0"
+  }
+}
